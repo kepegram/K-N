@@ -5,7 +5,7 @@ function Mainpage() {
     <div className="Mainpage">
       <header className="Mainpage-header">
         <p>
-          Welcome to our website!
+          Welcome to our website :B
         </p>
       </header>
     </div>
